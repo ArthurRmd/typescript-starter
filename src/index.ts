@@ -1,3 +1,4 @@
-const main = () => console.log("Typescript Template ♥‿♥")
+const main = () => console.log('Typescript Template ♥‿♥')
 
 main()
+
